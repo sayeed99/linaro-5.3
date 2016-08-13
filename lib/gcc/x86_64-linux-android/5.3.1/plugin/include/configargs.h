@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "../gcc-5.3.1/configure --target=x86_64-linux-android --prefix=/home/cyborg/zenfone/lin-4.9/output/new/x86_64-linux-android --host=x86_64-linux-gnu --build=x86_64-linux-gnu --with-gnu-ld --with-gnu-as --with-gold --enable-gold=default --enable-languages=c,c++ --enable-cloog-backend=isl --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --disable-libssp --enable-threads --disable-nls --disable-libmudflap --disable-libgomp --disable-libstdc__-v3 --disable-sjlj-exceptions --disable-shared --disable-tls --disable-libitm --with-arch=x86-64 --with-tune=intel --with-fpmath=sse --with-multilib-list=m32,m64,mx32 --enable-bionic-libs --enable-libatomic-ifuncs=no --enable-initfini-array --disable-nls --with-sysroot=/home/cyborg/zenfone/lin-4.9/sysroot --with-gxx-include-dir=/home/cyborg/zenfone/lin-4.9/sysroot/c++/4.9.x --with-python --with-bugurl=sayeed.afridi2009@gmail.com --disable-bootstrap --enable-plugins --enable-libgomp --enable-gnu-indirect-function --disable-libcilkrts --disable-libsanitizer --enable-gold --enable-threads --enable-eh-frame-hdr-for-static --enable-graphite=yes --enable-eh-frame-hdr-for-static --disable-werror --disable-libssp --program-transform-name='s&^&x86_64-linux-android-&'";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "generic" }, { "arch", "x86-64" }, { "tune", "intel" } };
